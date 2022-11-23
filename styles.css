@@ -1,0 +1,49 @@
+h1{font-family: serif;
+font-size: 36px;
+    color: forestgreen;
+    text-align: center;
+
+}
+
+h2{font-family: serif;
+font-size: 30px;
+    color: forestgreen;
+    text-align: center;
+
+}
+
+h3{font-family: serif;
+font-size: 28px;
+    color: darkolivegreen;
+    text-align: center;
+    
+}
+
+
+
+
+a{ text-decoration: none; 
+      width: 100px;
+    
+}
+
+
+
+p{font-family: sans-serif;
+  font-size: 18px;
+   color: black;
+   text-align: left;
+    margin-left: 50px;
+
+}
+
+img{margin-left: 50px;
+}
+
+
+audio{margin-left: 50px;
+}
+
+iframe{margin-left: 50px;
+}
+
